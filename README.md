@@ -1,6 +1,7 @@
-# Logical ReadMe File #
+# Logical Reader.JS ReadMe File #
 
-## Logical Reader JS Extension ##
+## What does Logical Reader do? ##
+## How to use Logical Reader ##
 
 ### What is Logical? ###
 
@@ -50,37 +51,32 @@ Settings
    Text-To-Speach mode
    Advanced pronounciation, Decrib
 
-Added Recently  
-   --------------
+# Added Recently # 
 
-- Added function to log script loadtimes for future refining.
-- Reviewed popuplar search engines and added basic content from them.
+- Added function to log script load times for future refining.
+- Reviewed popular search engines and added basic content from them.
 - Firefox is now Logical. (Read the whole site in 1/3 the time)
 - New system that checks how many changes can be made.
 - Function to check if the page is broken.
 
-Coming Soon
-   -----------
+##Coming Soon #
 
-- System checks how many changes it can make
-- Counts how many changes on page and total
-- Automatically checks for faults
+- System checks how many changes it can make efficiently.
+- Makes backups and monitors browser to avoid crashing
+- Finds best way to handle sensitive data.
+- Quick and accurate speed testing
 - Tweaking of internals to give you the most
 - Checks network status uptime and downtime.
 - Checks system load time.
 
-Thanks
- ------
+##Thanks #
 
 - Thank you for taking the time to review Logical.
  It actually means a lot to me. <3
 
  -CoffeeIsCode-
 
-*/
-
-/*
-   Apiologies
+Apiologies
    ----------
 
 - Sorry, we messed up, but we're happy that we did.
@@ -96,29 +92,28 @@ How it works
    patterns in the back of our minds as we do everything everyday.
    With logical it's less about reading and more about the big picture.
 
-What is Logical?
-   ----------------
+##What is Logical? #
 
-- Logical was a concept that I thought of and it quickly spiraled
+>- Logical was a concept that I thought of and it quickly spiraled
    out of control. Logical makes it so you can read up to 30x faster
    by minimizing and simplifying content into a way that you have to think about what
    you are looking at instead of just reading lines of filler text.
-- This application was developed on accident when making Messify
+>- This application was developed on accident when making Messify
    an extension made to turn any site or blog into a comedic and fun
    experience. Logical is so advanced that Messify v1.0.4 was built
-   into Logical v1.0.4 (this version) effortlessly. Messify grabs
+   into Logical v1.1.5 (this version) effortlessly. Messify grabs
    a couple words and randomly changes words to give you dynamic
    and always different feel. But it just wasn't enough...
-- All my time quickly went towards crafting, debugging and refining
+>- All my time quickly went towards crafting, debugging and refining
    our software over and over again.
 
-## What's New In This Version ##
+###What's New In This Version ##
 
 - Added nodeCount() function to make sure the page isn't broken after running.
 - Minor changes to getTime() to better understand load times.
 - Added new words from firefox and MS.
 
-## Added Recently ##
+###Added Recently ##
 
 - Added function to log script load times for future refining.
 - Reviewed popular search engines and added basic content from them.
@@ -126,7 +121,7 @@ What is Logical?
 - New system that checks how many changes can be made.
 - Function to check if the page is broken.
 
-## Coming Soon ##
+###Coming Soon ##
 
 - System checks how many changes it can make
 - Counts how many changes on page and total
@@ -135,11 +130,10 @@ What is Logical?
 - Checks network status uptime and downtime.
 - Checks system load time.
 
-Thanks
- ------
+##Thanks #
 
 - Thank you for taking the time to review Logical.
- It realyl means a lot to me. <3
+ It really means a lot to me. <3
 
  -CoffeeIsCode-
 
