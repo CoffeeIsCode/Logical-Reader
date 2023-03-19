@@ -82,10 +82,10 @@ function buildCheck(a, b) {
   var to = b;
   var found = 0;
 }
-function build(a, b, type, times) {}
+function build(a, b, type, times) { }
 
 // New Layout
-function bM(a, b, type, times) {}
+function bM(a, b, type, times) { }
 
 /*
 
@@ -180,7 +180,7 @@ function removeImages() {
   // var imageCount
 }
 
-function scriptBreak() {}
+function scriptBreak() { }
 
 // End of page timestamp
 // Run at end of page
