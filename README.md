@@ -1,4 +1,4 @@
-# Logical.JS ReadMe File #
+# Logical.JS ReadMe #
 
 ## What does Logical do? ##
 
@@ -8,26 +8,35 @@ able to process the text and refine it before it even hits the
 page saving you a lot of time reading filler words or words that
 shouldn't be included.
 
-## How to use Logical ##
-
-> Right now Logical is in development and isn't ready to be tested.
->
 ### What is Logical? ###
 
- > Logical was a concept that I thought of and it quickly spiraled
-   out of control. Logical makes it so you can read up to 30x faster
-   by condensing content into a way that you have to think about what
-   you are looking at instead of just reading lines of
-   This application was developed on accident when making Messify
-   an extension made to turn any site or blog into a comedic and fun
-   experience. Logical is so advanced that Messify v1.0.4 was built
-   into Logical v1.1.5 (this version) effortlessly. Messify grabs
-   a couple words and randomly changes words to give you dynamic
-   and always different feel. But it just wasn't enough...
-   All my time quickly went towards crafting, debugging and refining
-   our software over and over again.
+> Logical was a concept that I thought of and it quickly spiraled
+out of control. Logical makes it so you can read up to 30x faster
+by condensing content into a way that you have to think about what
+you are looking at instead of just reading lines of
+This application was developed on accident when making Messify
+an extension made to turn any site or blog into a comedic and fun
+experience. Logical is so advanced that Messify v1.0.4 was built
+into Logical v1.1.5 (this version) effortlessly. Messify grabs
+a couple words and randomly changes words to give you dynamic
+and always different feel. But it just wasn't enough...
+All my time quickly went towards crafting, debugging and refining
+our software over and over again.
+
+## How to use Logical ##
+
+> Right now Logical is in development and isn't ready to be tested, 
+but the best way is to add it into your "snippets" section in Dev Tools. 
+
 
 ### How does it work ###
+
+> Logical looks for phrases that are commonly used and replaces them with 
+simpile phrases that are much easier to read. Higher level of the script
+will allow for an alternate way of processing common phrases into a way
+that is minimal but requires more thought. Color coding is also going to
+be a feature in the future.
+
 
  Are minds are constantly doing all kinds of background functions and we always processing and recognizing patterns. Our aim is to make that process easier.
  When you browse any website, before the page loads, logical scans the page and depending on the settings selected can make all kinds of interesting changes to the page.
@@ -39,13 +48,14 @@ shouldn't be included.
 - Minor changes to getTime() to better understand load times.
 - Added new words from firefox and MS.
 
-### Settings ###
+### Future Settings ###
 
    | Setting | Description |
    | Themes | Light, Dark, Paper, Carbon, High Contrast and Colorized. |
    | Book mode | removes colors and images (replaced with alt text). |
    |Minimizer 1-10 | Removes filler words and organizes it to still make sense. |
    | Text-To-Speech | Reads the content on screen. |
+   | Colorize | Puts words into a colorized format. |
 
 ## Recently Added ##
 
@@ -80,17 +90,6 @@ shouldn't be included.
    (Logical Pro) we are able to read up to 30x faster while
    getting the same rough story.
 
-## How it works ##
-
-   -------------
-
-- We are all coders at heart. Thinking logically and recognizing
-   patterns in the back of our minds as we do everything everyday.
-   With logical it's less about reading and more about the big picture.
-
-## What is Logical? ##
-
-
 ## What's New In This Version ##
 
 - Added nodeCount() function to make sure the page isn't broken after running.
@@ -113,7 +112,7 @@ shouldn't be included.
 
 ## Thanks ##
 
-- Thank you for taking the time to review Logical.
+- Thank you for taking the time to read the Logical Readme.
  It really means a lot to me. <3
 
  -CoffeeIsCode-
